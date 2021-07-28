@@ -280,7 +280,7 @@ Private delivery of DeWi
 
 ## Other information:
 
-- Discord supports channel : [Pisces](https://discord.gg/MkbVWeh9)
+- Discord supports channel : [Pisces](https://discord.gg/MkbVWeh9) <<<<<<<< Invalid Link Please Upgrade with permanent one
 - Twitter profile:@Pisceminer
 - Official website:[Pisces Miner](http://www.piscesminer.com/)
 - Partner's official website:[GreenPalm](http://www.greenpalm.cn/)
